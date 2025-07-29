@@ -2060,7 +2060,7 @@ Condição válida:
 | Clareza de estrutura e modularidade    | 20%  |
 | Correção e execução da engine reativa  | 20%  |
 | Estratégia de fallback e rollback      | 15%  |
-| Justificativas e ADRs claras           | 15%  |
+| Justificativas                         | 15%  |
 | Testes e cobertura                      | 10%  |
 | Cálculo de indicadores derivados       | 10%  |
 | Diagnóstico de inconsistência e estado | 10%  |
